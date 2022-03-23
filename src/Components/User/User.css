@@ -1,0 +1,10 @@
+.userName {
+    width: 400px;
+    margin: 20px auto;
+    padding: 30px;
+    border: 1px solid grey;
+}
+
+.userHeading {
+    text-align: center;
+}
